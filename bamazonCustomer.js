@@ -5,8 +5,8 @@ var inquirer = require("inquirer");
 var connection = mysql.createConnection({
   host: "localhost",
   port: 3306,
-  user: "root", //username from mysql workbench
-  password: "Hanapcoco8", //password from mysql workbench
+  user: //username from mysql workbench
+  password:  //password from mysql workbench
   database: "bamazon"
   });
 
